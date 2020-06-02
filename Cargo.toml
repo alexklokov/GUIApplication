@@ -8,5 +8,5 @@ edition = "2018"
 
 [dependencies]
 iced = "0.1"
-server = { path = "/Users/aleksandrklokov/Documents/projects/rust/diplom_project/server" }
+server = { git = "https://github.com/alexklokov/webServer"}
 libloading = "0.5"
